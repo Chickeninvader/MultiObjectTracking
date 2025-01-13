@@ -44,4 +44,22 @@ To run the code in this repository, ensure the following:
 - Statistics and Machine Learning Toolbox (if applicable)
 
 ---
+## Results and Metrics
+
+This section provides a summary of the results obtained from the implemented algorithms, captured in the following files:
+
+1. **Cardinality**
+   - This file contains the cardinality estimates for each time step, comparing the predicted and ground truth values.
+   - **Screenshot:**
+     ![Cardinality Results](cardinality.png)
+
+2. **Metrics**
+   - Includes performance metrics such as OSPA (Optimal Subpattern Assignment) and GOSPA (Generalized OSPA) scores, highlighting the accuracy of the tracking algorithms.
+   - **Screenshot:**
+     ![Metrics Results](metrics.png)
+
+3. **Nonlinear Prediction Ground Truth**
+   - This file visualizes the ground truth trajectories versus the predicted trajectories for nonlinear models.
+   - **Screenshot:**
+     ![Nonlinear Prediction Results](nonlinear_prediction_groundtruth.png)
 
